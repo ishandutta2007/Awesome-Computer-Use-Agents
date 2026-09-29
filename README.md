@@ -64,55 +64,55 @@ Below is a comparative breakdown of commercial computer-use agent platforms, **s
 
 The open-source computer-use ecosystem is expanding rapidly, giving developers complete control over data privacy, custom model integration, and local execution.
 
-**Sorted by GitHub Star Count (Descending):**
+**Sorted by GitHub Stars_Count (Descending):**
 
 ### 1. 🌐 [Playwright](https://github.com/microsoft/playwright) 
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)
 - **Description**: Reliable end-to-end browser automation framework for modern web apps (Node.js, Python, Java, .NET).
 - **Computer-Use Role**: Serves as the standard execution layer and sandbox for most open-source browser agents.
 
 ### 2. 💻 [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) 
-[![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social&color=white)](https://github.com/OpenInterpreter/open-interpreter/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social&color=white)](https://github.com/OpenInterpreter/open-interpreter/stargazers)
 - **Description**: Open-source local agent that lets LLMs execute Python/JS code, operate terminal environments, and control local desktop OS via natural language.
 - **Key Features**: Local model support (Ollama/LM Studio), OS GUI navigation, code execution safety controls.
 
 ### 3. 🌐 [Browser-Use](https://github.com/browser-use/browser-use) 
-[![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)
 - **Description**: The premier open-source web agent framework (Python/TypeScript) making websites accessible for LLMs.
 - **Key Features**: Auto-converts websites into LLM-friendly trees, handles multi-tab navigation, clicks, fills forms, and solves complex web workflows; MIT licensed.
 
 ### 4. 🤼 [OpenManus](https://github.com/mannaandpoetry/open-manus) 
-[![GitHub stars](https://img.shields.io/github/stars/mannaandpoetry/open-manus?style=social&color=white)](https://github.com/mannaandpoetry/open-manus/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/mannaandpoetry/open-manus?style=social&color=white)](https://github.com/mannaandpoetry/open-manus/stargazers)
 - **Description**: Open-source multi-agent browser execution system inspired by Manus and Browser-Use.
 - **Key Features**: Asynchronous task planning, multi-agent collaboration, web automation execution layer.
 
 ### 5. 🖥️ [Self-Operating Computer Framework](https://github.com/OthersideAI/self-operating-computer) 
-[![GitHub stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social&color=white)](https://github.com/OthersideAI/self-operating-computer/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social&color=white)](https://github.com/OthersideAI/self-operating-computer/stargazers)
 - **Description**: Open multimodal framework enabling VLMs (GPT-4o, Claude 3.5, Gemini) to operate a desktop via screenshots and virtual mouse/keyboard actions.
 - **Key Features**: Screen perception coordinates, OS-agnostic control (macOS, Windows, Linux).
 
 ### 6. 🦅 [Skyvern](https://github.com/skyvern-ai/skyvern) 
-[![GitHub stars](https://img.shields.io/github/stars/skyvern-ai/skyvern?style=social&color=white)](https://github.com/skyvern-ai/skyvern/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/skyvern-ai/skyvern?style=social&color=white)](https://github.com/skyvern-ai/skyvern/stargazers)
 - **Description**: Computer-vision and LLM-based web automation platform replacing fragile DOM parsers.
 - **Key Features**: Automated complex form filling, anti-bot navigation, visual site scraping across arbitrary websites without customized code.
 
 ### 7. 🎯 [UI-TARS](https://github.com/bytedance/ui-tars) 
-[![GitHub stars](https://img.shields.io/github/stars/bytedance/ui-tars?style=social&color=white)](https://github.com/bytedance/ui-tars/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/bytedance/ui-tars?style=social&color=white)](https://github.com/bytedance/ui-tars/stargazers)
 - **Description**: Open native GUI agent model family developed by ByteDance focused on human-like visual perception and action grounding.
 - **Key Features**: State-of-the-art GUI grounding performance on web, mobile, and desktop operating systems.
 
 ### 8. 📦 [E2B (Desktop & Code Sandbox)](https://github.com/e2b-dev/E2B) 
-[![GitHub stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=social&color=white)](https://github.com/e2b-dev/E2B/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=social&color=white)](https://github.com/e2b-dev/E2B/stargazers)
 - **Description**: Open-source secure cloud sandboxing infrastructure designed specifically for AI agents and computer-use environments.
 - **Key Features**: Virtual machine sandboxing, desktop environment hosting, programmatic browser control.
 
 ### 9. 🌊 [LaVague](https://github.com/lavague-ai/LaVague) 
-[![GitHub stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=social&color=white)](https://github.com/lavague-ai/LaVague/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=social&color=white)](https://github.com/lavague-ai/LaVague/stargazers)
 - **Description**: Large Action Model (LAM) framework generating executable browser automation pipelines from natural language.
 - **Key Features**: Integrates Playwright, Selenium, and custom VLM engines for enterprise automation.
 
 ### 10. 🔌 [Model Context Protocol (MCP) Servers](https://github.com/modelcontextprotocol/servers) 
-[![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social&color=white)](https://github.com/modelcontextprotocol/servers/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social&color=white)](https://github.com/modelcontextprotocol/servers/stargazers)
 - **Description**: Official reference implementation of standardized protocol servers exposing desktop, browser, and local tool capabilities to AI agents.
 - **Key Features**: Standardized tool schemas, secure local IPC, modular computer-use integration.
 
