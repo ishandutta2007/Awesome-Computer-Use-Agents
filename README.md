@@ -116,6 +116,12 @@ The open-source computer-use ecosystem is expanding rapidly, giving developers c
 - **Description**: Official reference implementation of standardized protocol servers exposing desktop, browser, and local tool capabilities to AI agents.
 - **Key Features**: Standardized tool schemas, secure local IPC, modular computer-use integration.
 
+### 11. 🧪 [agent-qa](https://vostride.com)
+[![GitHub_Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social&color=white)](https://github.com/vostride/agent-qa/stargazers)
+- **Description**: Computer-use QA agent that tests natural-language user journeys across web, Android, and iOS and keeps screenshot and step evidence.
+- **Key Features**: CLI, dashboard, and MCP interfaces; persistent memidex memory and reviewable self-improvement that validates lessons from runs.
+- **License**: [FSL-1.1-ALv2](https://github.com/vostride/agent-qa/blob/main/LICENSE.md); [source code](https://github.com/vostride/agent-qa). Model/API and device costs are separate.
+
 ---
 
 ## 🏗️ Architectural Blueprints & Patterns
